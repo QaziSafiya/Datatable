@@ -1,4 +1,4 @@
-@tailwind base;
+/* @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -24,4 +24,31 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+} */
+
+*{
+  margin: 0;
+  padding: 0;
 }
+body{
+
+
+}
+
+.paper{
+  margin: 0rem 3rem;
+}
+
+@media (min-width: 300px ){
+ .paper{
+  margin: 0;
+ }
+
+}
+
+
+
+
+
+
+
